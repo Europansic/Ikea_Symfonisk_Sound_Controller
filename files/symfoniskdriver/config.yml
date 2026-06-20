@@ -1,0 +1,5 @@
+name: IKEA SYMFONISK Sound Controller
+packageKey: symfonisk-sound
+version: 1.0.0
+permissions:
+  zigbee: {}

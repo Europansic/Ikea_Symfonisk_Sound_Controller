@@ -1,0 +1,6 @@
+zigbeeManufacturer:
+  - id: "SYMFONISK Sound Controller"
+    deviceLabel: IKEA SYMFONISK Sound Controller
+    manufacturer: IKEA of Sweden
+    model: SYMFONISK Sound Controller
+    deviceProfileName: symfonisk
