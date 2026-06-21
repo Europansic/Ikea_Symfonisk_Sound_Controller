@@ -6,6 +6,9 @@ plus optional **Rules API** integration to control a Sonos speaker.
 > Based on the original Groovy DTH by [jusa80 (Juha Tanskanen)](https://github.com/jusa80/smartthings),
 > ported to the modern SmartThings Edge architecture.
 
+Here is the Invite Link
+https://bestow-regional.api.smartthings.com/invite/Boj0wAyOmqlA
+
 ---
 
 ## Features
